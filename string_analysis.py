@@ -143,7 +143,7 @@ def run_tests():
     print(f"Actual: {result1[0]:.1f}%, {result1[1]:.0f}%, {result1[2]:.1f}%, {result1[3]:.0f}%")
     
     # Exercise 1
-    test2 = "Supportl@litwork.in"
+    test2 = "Support1@litwork.in"
     print(f"\nTest 2 (Exercise-1): '{test2}'")
     result2 = analyze_string(test2)
     print(format_output(result2))
